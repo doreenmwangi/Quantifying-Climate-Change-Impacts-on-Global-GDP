@@ -20,3 +20,24 @@ This project builds a predictive modelling framework to assess how climate chang
 requirements.txt – Python dependencies.
 
 /Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
+
+🔧 Installation
+
+1. Clone the repository:
+
+git clone https://github.com/YourUsername/Climate-GDP-Forecast.git
+cd Climate-GDP-Forecast
+
+2. Create a virtual environment (recommended):
+
+python -m venv venv
+source venv/bin/activate    # Mac/Linux  
+venv\Scripts\activate       # Windows
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Launch Jupyter Notebook:
+
+jupyter notebook
