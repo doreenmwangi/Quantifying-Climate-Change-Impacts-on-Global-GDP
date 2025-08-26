@@ -15,8 +15,8 @@ This project builds a predictive modelling framework to assess how climate chang
 
 6. Scenario forecasting (Baseline, RCP 2.6, RCP 4.5, −30% CO₂ policy)
 
-/artifacts – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
+/artifacts.zip – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
 
 requirements.txt – Python dependencies.
 
-/datasets – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
+/Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
