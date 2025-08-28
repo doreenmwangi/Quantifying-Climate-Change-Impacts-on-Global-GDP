@@ -15,29 +15,29 @@ This project builds a predictive modelling framework to assess how climate chang
 
    - Scenario forecasting (Baseline, RCP 2.6, RCP 4.5, −30% CO₂ policy)
 
-2. /artifacts.zip – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
+2. artifacts.zip – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
 
 3. requirements.txt – Python dependencies.
 
-4. /Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
+4. Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
 
 🔧 Installation
 
 1. Clone the repository:
 
-git clone https://github.com/YourUsername/Climate-GDP-Forecast.git
-cd Climate-GDP-Forecast
+    git clone https://github.com/YourUsername/Climate-GDP-Forecast.git
+    cd Climate-GDP-Forecast
 
 2. Create a virtual environment (recommended):
 
-python -m venv venv
-source venv/bin/activate    # Mac/Linux  
-venv\Scripts\activate       # Windows
+    python -m venv venv
+    source venv/bin/activate    # Mac/Linux  
+    venv\Scripts\activate       # Windows
 
 3. Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. Launch Jupyter Notebook:
 
-jupyter notebook
+    jupyter notebook
