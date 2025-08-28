@@ -5,21 +5,21 @@ This project builds a predictive modelling framework to assess how climate chang
 
 1. code.ipynb – Jupyter Notebook implementing the full modelling pipeline:
 
-2. Data acquisition (World Bank GDP, OWID CO₂, ERA5 temperature anomalies)
+   - Data acquisition (World Bank GDP, OWID CO₂, ERA5 temperature anomalies)
 
-3. Preprocessing and feature engineering (log transforms, lagged terms, panel structuring)
+   - Preprocessing and feature engineering (log transforms, lagged terms, panel structuring)
 
-4. Model training (fixed-effects regression, Gradient Boosting)
+   - Model training (fixed-effects regression, Gradient Boosting)
 
-5. Evaluation (MAE, RMSE, R², rolling-origin validation, uncertainty bands)
+   - Evaluation (MAE, RMSE, R², rolling-origin validation, uncertainty bands)
 
-6. Scenario forecasting (Baseline, RCP 2.6, RCP 4.5, −30% CO₂ policy)
+   - Scenario forecasting (Baseline, RCP 2.6, RCP 4.5, −30% CO₂ policy)
 
-/artifacts.zip – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
+2. /artifacts.zip – Exported plots used in the dissertation (scatterplots, histograms, scenario comparisons, uncertainty bands).
 
-requirements.txt – Python dependencies.
+3. requirements.txt – Python dependencies.
 
-/Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
+4. /Datasets.zip – Placeholder folder for input data (not included here; sourced from World Bank, OWID, ERA5).
 
 🔧 Installation
 
